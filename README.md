@@ -5,4 +5,12 @@ This repository provides a walkthrough of generating the figures for the article
 
 ## IPYTHON NOTEBOOK  
 
-Please open the attached IPYNB file in **Jupyter**, or, view it in read-only mode on **GitHub**.
+Please open the included IPYNB file in **Jupyter**, or, view it in read-only mode on **GitHub**:
+
+https://github.com/olivettigroup/sdata-data-plots/blob/master/SDATA-data-plots.ipynb
+
+## JSON DATA FILE
+
+You can find the relevant JSON data file containined text-mined synthesis data here:
+
+https://figshare.com/s/5ff207b4c094d698ebc0
