@@ -9,7 +9,7 @@ Please open the included IPYNB file in **Jupyter**, or, view it in read-only mod
 
 https://github.com/olivettigroup/sdata-data-plots/blob/master/SDATA-data-plots.ipynb
 
-## JSON Data File
+## JSON DATA FILE
 
 You can find the relevant JSON data file containined text-mined synthesis data here:
 
